@@ -1,4 +1,4 @@
-# My_projects
+# My_projects :chart_with_upwards_trend:
 
 ## Задача
 
