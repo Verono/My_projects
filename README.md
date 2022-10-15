@@ -1,4 +1,4 @@
-# My_projects :chart_with_upwards_trend:
+# Проект "Рекомендательная система" :chart_with_upwards_trend:
 
 ## Задача
 
